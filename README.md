@@ -42,13 +42,13 @@ Set up a Windows 11 virtual machine using Oracle VirtualBox to create a safe env
    - 80 GB disk
 6. Completed setup and started VM installation.
 
-   ![VM Installation Process](Screenshot/03-windows11-installation-progress.pgn)
+   ![VM Installation Process](Screenshot/03-windows11-installation-progress.png)
 
 
-   ![VM System Setup](Screenshot/04-windows11-system-setup.pgn)
+   ![VM System Setup](Screenshot/04-windows11-system-setup.png)
 
 
-   ![VM Windows 11 Desktop](Screenshot/05-windows11-desktop-success)
+   ![VM Windows 11 Desktop](Screenshot/05-windows11-desktop-success.png)
    
 
 ---
