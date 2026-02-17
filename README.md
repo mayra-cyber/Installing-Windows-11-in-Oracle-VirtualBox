@@ -70,4 +70,17 @@ Future improvements:
 
 ## 📸 Screenshots
 
-(Add installation screenshots here)
+### Step 1 — VM Name and OS Selection
+![VM Name and OS Selection](images/01-vm-name-and-os-selection.png)
+
+### Step 2 — Unattended Installation Settings
+![Unattended Installation](images/02-unattended-installation-settings.png)
+
+### Step 3 — Windows 11 Installation Progress
+![Windows Installation Progress](images/03-windows11-installation-progress.png)
+
+### Step 4 — Windows System Setup
+![Windows Setup](images/04-windows11-system-setup.png)
+
+### Step 5 — Windows 11 Desktop
+![Windows Desktop](images/05-windows11-desktop-success.png)
