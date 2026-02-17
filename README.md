@@ -31,13 +31,25 @@ Set up a Windows 11 virtual machine using Oracle VirtualBox to create a safe env
    
    ![VM Name and OS Selection](Screenshot/01-vm-name-and-os-selection.png)
    
-4. Selected ISO image and OS edition.
-5. Created username and password for unattended installation.
-6. Assigned hardware resources:
+3. Selected ISO image and OS edition.
+
+   ![VM Summary Setting](Screenshoot/02-vm-summary-settings.png)
+   
+4. Created username and password for unattended installation.
+5. Assigned hardware resources:
    - 4 GB RAM
    - 2 CPU initially
    - 80 GB disk
-7. Completed setup and started VM installation.
+6. Completed setup and started VM installation.
+
+   ![VM Installation Process](Screenshot/03-windows11-installation-progress.pgn)
+
+
+   ![VM System Setup](Screenshot/04-windows11-system-setup.pgn)
+
+
+   ![VM Windows 11 Desktop](Screenshot/05-windows11-desktop-success)
+   
 
 ---
 
