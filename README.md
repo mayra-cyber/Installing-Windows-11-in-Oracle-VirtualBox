@@ -33,7 +33,7 @@ Set up a Windows 11 virtual machine using Oracle VirtualBox to create a safe env
    
 3. Selected ISO image and OS edition.
 
-   ![VM Summary Setting](Screenshoot/02-vm-summary-settings.png)
+   ![VM Summary Setting](02-vm-summary-settings.png)
    
 4. Created username and password for unattended installation.
 5. Assigned hardware resources:
