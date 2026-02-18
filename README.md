@@ -22,6 +22,11 @@ Set up a Windows 11 virtual machine using Oracle VirtualBox to create a safe env
 | Disk Size | 80 GB |
 | Network Mode | NAT |
 
+### Why These Settings?
+- **4GB RAM**: Enough for Windows 11 to function without freezing.
+- **3 vCPU**: Improves VM performance during setup.
+- **NAT**: Allows internet access without exposing the VM directly to the local network.
+
 ---
 
 ## 🔧 Steps Taken
